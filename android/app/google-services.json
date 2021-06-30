@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619517572822",
+    "firebase_url": "https://oria-12369.firebaseio.com",
+    "project_id": "oria-12369",
+    "storage_bucket": "oria-12369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619517572822:android:9eacd7876d742d85effb77",
+        "android_client_info": {
+          "package_name": "com.example.oria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619517572822-e55dtgkd5l2ss9r4n7l4cp92ru305r6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKOhiX0M99mHEl9y9UbbWF5x-HsXq68E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619517572822-e55dtgkd5l2ss9r4n7l4cp92ru305r6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
